@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "client-sessions": "^0.8.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "mongoose": "^5.12.1",
+    "multer": "^1.4.2",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.5.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "web322",
+  "description": "\" web322\"",
+  "version": "1.0.0",
+  "main": "data-service-auth.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vohramustakim/web322.git"
+  },
+  "author": "Mustakim Vohra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vohramustakim/web322/issues"
+  },
+  "homepage": "https://github.com/vohramustakim/web322#readme"
+}
